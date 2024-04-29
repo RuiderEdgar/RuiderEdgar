@@ -5,6 +5,8 @@
 
 - 🌱 Estoy aprendiendo **React y MERN Stack**
 
+- 🎮 Mi proyecto sobre la información de personajes del videojuego Genshing Impact [Genshing App](https://spiffy-concha-37b160.netlify.app)
+
 - 🌍 Mi proyecto sobre paises [El mundo](https://melodic-bombolone-8a5a86.netlify.app)
 
 - 🛍️ Mi proyecto de una landig page para una tienda en línea [Tienda en línea](https://delightful-entremet-614d1c.netlify.app/)
